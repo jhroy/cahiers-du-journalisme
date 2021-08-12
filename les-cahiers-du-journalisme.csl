@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<style class="in-text" version="1.0.1" et-al-min="3" et-al-use-first="1" demote-non-dropping-particle="never" default-locale="fr-FR" xmlns="http://purl.org/net/xbiblio/csl">
+<?xml version="1.0" encoding="utf-8"?>
+<style class="in-text" version="1.0" et-al-min="3" et-al-use-first="1" demote-non-dropping-particle="never" default-locale="fr-FR" xmlns="http://purl.org/net/xbiblio/csl">
   <!-- Style créé à l'aide du «Visual CSL Editor» (https://editor.citationstyles.org/visualEditor/) -->
   <!-- Les Cahiers du journalisme sont une revue scientifique avec comité de lecture. Les articles de sa section «Recherches» sont évalués en double-aveugle par des pairs indépendants -->
   <info>
     <title>Les Cahiers du journalisme (Français)</title>
     <title-short>Cahiers du journalisme</title-short>
-    <id>http://www.zotero.org/styles/les-cahiers-du-journalisme</id>
-    <link href="http://www.zotero.org/styles/les-cahiers-du-journalisme" rel="self"/>
+    <id>http://www.zotero.org/styles/cahiers-du-journalisme</id>
+    <link href="http://www.zotero.org/styles/cahiers-du-journalisme" rel="self"/>
     <link href="http://www.zotero.org/styles/universite-du-quebec-a-montreal" rel="template"/>
     <link href="https://cahiersdujournalisme.org/FicheCitaElec.pdf" rel="documentation"/>
     <author>
@@ -18,7 +18,6 @@
     <category field="social_science"/>
     <category field="humanities"/>
     <category field="communications"/>
-    <category field="journalism"/>
     <summary xml:lang="fr">Le style de références bibliographiques des Cahiers du journalisme</summary>
     <published>2021-07-30T23:00:02+04:00</published>
     <updated>2021-08-12T14:11:15+00:00</updated>
@@ -276,7 +275,6 @@
           </choose>
         </group>
       </else-if>
-      <else/>
     </choose>
   </macro>
   <macro name="date-et-en-ligne">
